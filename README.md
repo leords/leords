@@ -20,6 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-rodrigues-2b14a8159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-rodrigues-2b14a8159/" height="20" width="30" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100002584897261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100002584897261" height="20" width="30" /></a>
-<a href="https://instagram.com/leoroodriiguees" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leoroodriiguees" height="20" width="30" /></a>
-<a href="https://discord.gg/leoroodriigues#4227" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leoroodriigues#4227" height="20" width="30" /></a>
+<a href="https://instagram.com/leoroodriiguees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leoroodriiguees" height="20" width="30" /></a>
+<a href="https://discord.gg/leoroodriigues#4227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leoroodriigues#4227" height="20" width="30" /></a>
 </p>
