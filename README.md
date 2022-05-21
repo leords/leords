@@ -11,7 +11,7 @@
 
 
 <br></br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leords&show_icons=true&locale=en&layout=compact" alt="leords" /> </p>
+<p><img align="center" background src="https://github-readme-stats.vercel.app/api/top-langs?username=leords&show_icons=true&theme=dracula&locale=en&layout=compact" alt="leords" /> </p>
 <br></br>
 
 
